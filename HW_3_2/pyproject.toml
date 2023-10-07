@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "hw-3-2"
+version = "0.1.0"
+description = ""
+authors = ["Max_Ligr <63448349+MaxLiger@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
